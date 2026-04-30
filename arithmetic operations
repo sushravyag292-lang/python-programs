@@ -12,9 +12,9 @@ print("Floar division of a and b =",a//b); # floar division
 output:
 Enter a value3
 Enter b value4
-Addition of a and b  7
-Subtraction of a and b  -1
-Multiplication of a and b  12
-Division of a and b  0.75
-Remainder of a and b  3
-Exponent of a and b  81
+Addition of a and b  =7
+Subtraction of a and b = -1
+Multiplication of a and b = 12
+Division of a and b = 0.75
+Remainder of a and b = 3
+Exponent of a and b=  81
